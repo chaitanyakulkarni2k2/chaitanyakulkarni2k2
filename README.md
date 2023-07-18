@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **chaitanya.kulkarni20@vit.edu**
 
-- 📄 Know about my experiences [file:///C:/Users/kulka/Downloads/Chaitanya%20kulkarni_cv.pdf](file:///C:/Users/kulka/Downloads/Chaitanya%20kulkarni_cv.pdf)
+- 📄 Know about my experiences
+  <a href="file:///C:/Users/kulka/Downloads/Chaitanya%20kulkarni_cv.pdf">Download CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

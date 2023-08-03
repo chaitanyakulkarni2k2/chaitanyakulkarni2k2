@@ -12,7 +12,7 @@
 - 📫 How to reach me **chaitanya.kulkarni20@vit.edu**
 
 - 📄 Know about my experiences
-  [file:///C:/Users/kulka/Downloads/Chaitanya%20kulkarni_cv.pdf](file:///C:/Users/kulka/Downloads/Chaitanya%20kulkarni_cv.pdf)
+  [https://drive.google.com/file/d/1KolmtTy3KIZOZkIXtIir9_tLfc4iVkB7/view?usp=sharing](https://drive.google.com/file/d/1KolmtTy3KIZOZkIXtIir9_tLfc4iVkB7/view?usp=sharing)
 
 ### 🔗 Connect with me
 <!-- https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg -->

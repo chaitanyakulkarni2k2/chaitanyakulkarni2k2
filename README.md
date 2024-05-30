@@ -29,7 +29,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,python,django,php,java,git,c,github,instagram,jquery,linkedin,materialui,nodejs,redux,stackoverflow,vscode,vite,html,css,bootstrap,firebase,mongodb&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,js,python,OpenCV,php,java,git,c,github,instagram,jquery,linkedin,materialui,nodejs,redux,stackoverflow,vscode,vite,html,css,bootstrap,firebase,mongodb&perline=10" />
   </a>
 </p>
 
